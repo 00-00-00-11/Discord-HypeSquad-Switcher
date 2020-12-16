@@ -1,10 +1,10 @@
-#Discord-HypeSquad-Switcher
+# Discord-HypeSquad-Switcher
 
 ---
 
 Discord-HypeSquad-Switcher est un script open-source permettant de choisir sa maison HypeSquad sur discord.
 
-##Comment l'utiliser
+## Comment l'utiliser
 
 ---
 
