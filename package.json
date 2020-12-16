@@ -1,0 +1,15 @@
+{
+  "name": "discord-hypesquad-switcher",
+  "version": "1.0.0",
+  "description": "Petit script permettant de choisir ta HypeSquad Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "node-fetch": "^2.6.1"
+  },
+  "author": "HaXGamiG <contact@haxgamig.fr>",
+  "license": "LGPL-3.0-or-later"
+}
